@@ -105,6 +105,7 @@ export default function About() {
               </motion.div>
             </div>
             
+            <motion.div className="text-center">
             <motion.a
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
@@ -113,6 +114,7 @@ export default function About() {
             >
               Let's Connect
             </motion.a>
+            </motion.div>
           </motion.div>
         </div>
       </div>
