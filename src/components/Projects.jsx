@@ -12,7 +12,7 @@ const projects = [
   {
     title: "Budhanilakantha Tourism",
     description: "A digital tourism platform that showcases local destinations with interactive Google Maps.",
-    link: "bm.recc.com.np",
+    link: "https://bm.recc.com.np",
     tags: ["Javascript", "Bootstrap", "PHP"],
     screenshot: "./budhanilakantha.png"
   },
